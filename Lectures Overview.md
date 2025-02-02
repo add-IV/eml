@@ -162,3 +162,16 @@
 	- dropout transforms a single network into an ensemble
 
 often pruning/ quantization can make models more general
+
+## Lecture 6
+
+- batch normalization
+	- dont use in combination with dropout
+	- reduce covariate shift between training and test set
+	- mitigates interdependency between layers during training
+	- LN, IN, GN
+- convolutional architectures
+	- pooling
+		- max pooling
+		- average pooling
+	- 
