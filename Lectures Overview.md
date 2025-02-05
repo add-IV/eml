@@ -174,4 +174,20 @@ often pruning/ quantization can make models more general
 	- pooling
 		- max pooling
 		- average pooling
-	- 
+	- TODO: naves of variables
+
+## Lecture 7
+
+- unsafe optimization
+	- optimizations that affect accuracy
+	- quantized neural networks
+		- piece-wise constant function
+		- TODO: implications
+	- pruning
+		- remove stuff when its useless
+			- remove smallest weights
+			- remove weights below threshold
+			- multiply by gradient before threshold
+
+## Lecture 8
+
