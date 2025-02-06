@@ -204,3 +204,7 @@ often pruning/ quantization can make models more general
 - cpus use speculation everywhere
 - DNNs don't need speculation, branch prediction, cache agents, OOO, Multi-threading
 - performance vs innovation tradeoff
+- mobilenet
+	- depthwise separable convolutions
+- senet
+	- dimensionality reduction layer followed by dimensionality increasing layer
