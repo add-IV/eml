@@ -191,3 +191,16 @@ often pruning/ quantization can make models more general
 
 ## Lecture 8
 
+## Lecture 9
+
+- FINN
+	- deploy DNNs to chips
+- Column Pruning
+	- coarse-grained: blocks of matrix column
+	- fine-grained: pruning of single matrix columns
+
+## Lecture 10
+
+- cpus use speculation everywhere
+- DNNs don't need speculation, branch prediction, cache agents, OOO, Multi-threading
+- performance vs innovation tradeoff

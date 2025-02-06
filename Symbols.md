@@ -15,3 +15,6 @@ H/ W - ifmap height/ width
 R/S - filter height/ width
 E/F - ofmap height/width
 E = (H - R + U) / U
+
+
+PE - Processing Elements
